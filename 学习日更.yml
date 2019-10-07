@@ -1,0 +1,31 @@
+1007:
+spring-cloud包导入的问题    
+ [ERROR]     Non-resolvable import POM: Failure to find org.springframework.cloud:spring-cloud-dependencies:pom:Finchley.M9 in https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced @ com.tensquare:tensquare_parent:1.0-SNAPSHOT, D:\ideawork\tensquare_parent\pom.xml, line 37, column 25 -> [Help 2]
+ 
+ 试了一下午没有找到解决方法。
+ springcloud版本
+ <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>Finchley.M9</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+    
+前端部分：
+vscode打开文件快捷键：
+ Alt shit+r    
+ tensquare前端部分遇到的问题：
+  easymock: 
+  网络原因easymock只能在本地运行，但是easymock本地运行需要连接外网，无法运行
+  只能放弃easymock。但可以通过tensquare后台的方式接受前端接口。
+  
+  明日任务：1.以把tensquare前端看一下，后台数据用tensquare后台
+            2.tensquare第五章之后的springboot看一下
+            3.搞一下公司怎么fork github不然每次都要重新下载
+    
+  
