@@ -27,5 +27,16 @@ vscode打开文件快捷键：
   明日任务：1.以把tensquare前端看一下，后台数据用tensquare后台
             2.tensquare第五章之后的springboot看一下
             3.搞一下公司怎么fork github不然每次都要重新下载
-    
+  晚上遇到bug,github无法上传，tensquare同步问题暂时无法解决        
+
+1008 
+ spring-cloud的问题还是没有解决
+ ali镜像中没有springCloud  Finchley.M9
+ 看方志朋的博客 https://www.fangzhipeng.com/springcloud/2018/08/01/sc-f1-eureka.html
+  也可以看他的csdn
+  https://blog.csdn.net/forezp/article/details/81040925
+  明日计划 ：
+            1。前端继续看
+            2. 搞springcloud, 换一个新版本尝试
+  
   
