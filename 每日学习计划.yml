@@ -64,5 +64,15 @@ vscode打开文件快捷键：
   更新linux全套资料。
   上传notepad++ 的md插件
 1016
+1021
+  java项目 day62-66部分有git的资料
+1023
+  node 运行js文件的方法 node 01.js
+1024
+  myexpress 文件夹
+  创建空的 app
+  npp init -y 生成一个package.json文件
+  npm install express --save
+  node .  运行代码开始运行文件
   
   
