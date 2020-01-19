@@ -74,5 +74,44 @@ vscode打开文件快捷键：
   npp init -y 生成一个package.json文件
   npm install express --save
   node .  运行代码开始运行文件
+  node 
+1025
+  今天解决网络问题,其他的都不要忙
+  实在太慢了，大部分时间花在等待上面了
+  ??
+  需要多找几个代理软件，今天换了一个端口。网速瞬间变快了
+  整理大数据相关的资料上传到github 
+  前端视频看一下 ，具体细节到公司处理
+  找翻墙更快的网站
+  买一个云服务器
+1027
+  前端部分：node 运行指定文件 node test.js 
+  静态资源---中间件等等都可以
+  express在爬取了
+  github.com/aui/express-art-template
+1028
+ /etc/profile文件的配置
+unset i
+unset -f pathmunge
+export JAVA_HOME=/usr/local/java/jdk1.8.0_211
+export HADOOP_HOME=/usr/local/hadoop-2.7.1
+export M2_HOME=/usr/local/apache-maven-3.1.1
+export PATH=$PATH:$JAVA_HOME/bin:$HADOOP_HOME/bin:$HADOOP_HOME/sbin:$M2_HOME/bin
+
+#export PATH=$PATH:$JAVA_HOME/bin:$M2_HOME/bin
+
+docker安装jdk的路径问题
+1029 
+106 安装jdk i586是32位的
+
+1030 
+  linux 新建用户  ee60  密码 bebebox 
+1101
+  hadoop无法更新搭建好之后无法访问，明天搞一下    
+  ssh-keygen -t rsa
+   
+  cd ~/.ssh
+  cd ~/.ssh
+  
   
   
